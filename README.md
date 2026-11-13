@@ -29,6 +29,10 @@ No spam. No pirated software. No affiliate links.
 
 - [Notion](https://www.notion.so/) — Notes, documentation, and productivity workspace.
 
+## 🎥 Media
+
+- [YouTubeVideoToMP4](https://youtubevideotomp4.com/) — Download any YouTube link as an MP4 file in the browser.
+
 ## 📱 Mobile
 
 - Add useful free mobile apps here.
