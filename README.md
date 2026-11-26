@@ -28,6 +28,7 @@ No spam. No pirated software. No affiliate links.
 ## 🛠️ Productivity
 
 - [Notion](https://www.notion.so/) — Notes, documentation, and productivity workspace.
+- [StagePeek](https://stagepeek.live/) — Interactive 3D theater seat-view previewer across 201 Broadway, West End, and performing arts venues.
 
 ## 📱 Mobile
 
