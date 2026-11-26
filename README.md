@@ -6,9 +6,11 @@ No spam. No pirated software. No affiliate links.
 
 ## 🤖 AI
 
+- [Customer Interview Guide Generator](https://nar-vardanyan.github.io/frank-mcp/tools/customer-interview-guide-generator/) — Free, no-login page that writes 8 open customer interview questions for churn, win-loss, discovery and pricing.
 - [Hugging Face](https://huggingface.co/) — Open-source AI models, datasets, and tools.
 - [Ollama](https://ollama.com/) — Run AI models locally.
 - [Perplexity](https://www.perplexity.ai/) — AI-powered search and research.
+- [Survey to Interview Question Converter](https://nar-vardanyan.github.io/frank-mcp/tools/survey-to-interview-converter/) — Free, no-login page that turns pasted survey questions into open voice-interview questions.
 
 ## 💻 Developer Tools
 
